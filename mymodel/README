@@ -1,0 +1,19 @@
+MUSIC PREDICTION
+=====================================================
+The set has 4 files and this read me
+first is the data in csv format
+secong is an alredy intteligent model that is being used to make predictions 
+third is musicmodel this is where are creating our model from scratch and finalizing by making the intelligent model
+forth this read me 
+and fifth is the testing of our intelligent model to make predictions
+
+========================================================================
+
+please start by working on musicmodel
+open it on a anacoda jupyter-notebook or the anacoda studio
+
+feel free to use and alter the code
+
+
+
+                                                                  MUCHIRA JUNIOR
